@@ -1,0 +1,10 @@
+C:\Users\2270345\source\repos\DemonWCFProject\ForWCF\bin\Debug\ForWCF.exe.config
+C:\Users\2270345\source\repos\DemonWCFProject\ForWCF\bin\Debug\ForWCF.exe
+C:\Users\2270345\source\repos\DemonWCFProject\ForWCF\bin\Debug\ForWCF.pdb
+C:\Users\2270345\source\repos\DemonWCFProject\ForWCF\obj\Debug\ForWCF.csproj.AssemblyReference.cache
+C:\Users\2270345\source\repos\DemonWCFProject\ForWCF\obj\Debug\ForWCF.Form1.resources
+C:\Users\2270345\source\repos\DemonWCFProject\ForWCF\obj\Debug\ForWCF.Properties.Resources.resources
+C:\Users\2270345\source\repos\DemonWCFProject\ForWCF\obj\Debug\ForWCF.csproj.GenerateResource.cache
+C:\Users\2270345\source\repos\DemonWCFProject\ForWCF\obj\Debug\ForWCF.csproj.CoreCompileInputs.cache
+C:\Users\2270345\source\repos\DemonWCFProject\ForWCF\obj\Debug\ForWCF.exe
+C:\Users\2270345\source\repos\DemonWCFProject\ForWCF\obj\Debug\ForWCF.pdb
